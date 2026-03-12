@@ -33,7 +33,7 @@ export default function Footer() {
         <p>
           Niveau 3 : une question dédiée à un thème précis : la Grèce antique.
         </p>
-        <p>Saurez-vous me cerner ?</p>
+        <p>Saurez-vous la cerner ?</p>
       </section>
 
       <div className="footer__links">
