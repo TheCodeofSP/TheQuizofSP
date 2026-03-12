@@ -131,10 +131,6 @@
     cursor: pointer;
   }
 
-  &__choice:hover {
-    border-color: $border;
-    background: rgba(57, 255, 20, 0.06);
-  }
 
   &__choice--selected {
     border-color: $border;
