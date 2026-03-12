@@ -167,7 +167,7 @@ export default function StartPage() {
         </header>
 
         <div className="start__titleWrap">
-          <h1 className="title start__title">THE QUIZ OF SP</h1>
+          <h1 className="title start__title">THE QUIZ OF SP*</h1>
           <p className="subtitle start__subtitle">Qui se cache derrière SP ?</p>
           <p className="start__version">
             3 LEVELS • QCM • FINAL BOSS • LEADERBOARD

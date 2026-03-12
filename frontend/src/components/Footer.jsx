@@ -11,10 +11,9 @@ export default function Footer() {
       </a>
 
       <section className="footer__about">
-        <strong>À propos du quiz</strong>
         <p>
           {" "}
-          Ce quiz permet de découvrir une facette de la personnalité de SP à
+          *Ce quiz permet de découvrir une facette de la personnalité de SP à
           travers différents sujets qu'elle apprécie : films, animés, sport,
           musique, mode et bien d’autres.
         </p>
