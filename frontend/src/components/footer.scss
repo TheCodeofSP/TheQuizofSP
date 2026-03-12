@@ -1,0 +1,32 @@
+@use "../styles/tokens" as *;
+@use "../styles/mixins" as m;
+
+.footer {
+  padding: 12px;
+  text-align: center;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: $color-muted;
+  border-top: 1px solid $border-soft;
+}
+
+.footer__text {
+  margin: 0;
+}
+
+a {
+  color: $color-muted;
+  text-decoration: none;
+  transition: color 0.3s;
+
+  &:hover {
+    color: $color-primary;
+  }
+}
+
+.footer__logo {
+  height: 12px;
+  vertical-align: middle;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "f1",
+    "question": "Quel empereur romain stoïcien a écrit 'Pensées pour moi-même' ?",
+    "answers": ["marc aurele", "marc aurèle", "marcus aurelius", "marc aurel"]
+  },
+  {
+    "id": "f2",
+    "question": "Quel philosophe grec est le maître de Platon ?",
+    "answers": ["socrate"]
+  },
+  {
+    "id": "f3",
+    "question": "Quel pays a inventé les Jeux Olympiques antiques ?",
+    "answers": ["grece", "grèce"]
+  },
+
+  {
+    "id": "f4",
+    "question": "Quel philosophe grec est l'élève de Socrate et le maître d'Aristote ?",
+    "answers": ["platon"]
+  },
+  {
+    "id": "f5",
+    "question": "Quel empereur romain a donné son nom au mois d'août ?",
+    "answers": ["auguste", "augustus"]
+  },
+  {
+    "id": "f6",
+    "question": "Dans quelle ville grecque se trouvaient les Jeux Olympiques antiques ?",
+    "answers": ["olympie"]
+  },
+  {
+    "id": "f7",
+    "question": "Quel philosophe grec a écrit 'Le Banquet' ?",
+    "answers": ["platon"]
+  },
+  {
+    "id": "f8",
+    "question": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
+    "answers": ["pythagore"]
+  },
+  {
+    "id": "f9",
+    "question": "Quel volcan a détruit la ville de Pompéi en 79 après J.-C. ?",
+    "answers": ["vesuve", "vésuve"]
+  },
+  {
+    "id": "f10",
+    "question": "Quelle déesse grecque est la déesse de la sagesse et la protectrice d’Athènes ?",
+    "answers": ["athena", "athéna"]
+  }
+]

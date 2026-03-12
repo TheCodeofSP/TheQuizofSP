@@ -1,0 +1,161 @@
+@use "./styles/tokens" as *;
+@use "./styles/mixins" as m;
+@use "./styles/animations";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: $font-retro;
+  background:
+    radial-gradient(circle at 20% 20%, rgba(57, 255, 20, 0.1), transparent),
+    $color-bg;
+  color: $color-text;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+button {
+  border: 0;
+}
+
+img,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+main {
+  min-height: 100vh;
+}
+
+.container {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: $space-5 $space-3;
+}
+
+.card {
+  position: relative;
+  background: $color-panel;
+  border: 2px solid $border;
+  border-radius: $radius-lg;
+  padding: $space-4;
+  animation: slideUp 0.3s ease;
+
+  @include m.crt;
+  @include m.scanlines;
+}
+
+.title {
+  margin: 0;
+  font-size: 22px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  animation: flicker 3s infinite;
+
+  @include m.neon-text($color-primary);
+}
+
+.subtitle {
+  margin: 0;
+  color: $color-muted;
+}
+
+.input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid $border;
+  border-radius: $radius-md;
+  background: rgba(0, 0, 0, 0.3);
+  color: $color-primary;
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.5);
+
+  @include m.neon-border($color-primary);
+
+  &:focus {
+    @include m.focus;
+  }
+}
+
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  gap: 10px;
+  padding: 10px 12px;
+  border-radius: $radius-md;
+  cursor: pointer;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  transition:
+    background 0.2s ease,
+    border-color 0.2s ease,
+    transform 0.2s ease;
+}
+
+.btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.btn--primary,
+.btn--secondary {
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  background: rgba(57, 255, 20, 0.15);
+  color: $color-primary;
+
+  @include m.neon-border($color-primary);
+
+  &:hover:not(:disabled) {
+    background: rgba(57, 255, 20, 0.25);
+  }
+}
+
+.badge {
+  font-size: 12px;
+  color: $color-secondary;
+}
+
+.error {
+  margin: 0;
+  color: $color-danger;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.hr {
+  border: 0;
+  border-top: 1px solid $border-soft;
+}
+
+.pa {
+  color: $color-primary;
+}
+
+@include m.up($bp-md) {
+  .title {
+    font-size: 28px;
+  }
+}
