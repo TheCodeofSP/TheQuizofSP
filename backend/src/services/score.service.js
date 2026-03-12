@@ -55,7 +55,7 @@ export async function saveScore(payload) {
         finalScore,
       },
       {
-        new: true,
+        returnDocument: "after",
         upsert: true,
         setDefaultsOnInsert: true,
       },
