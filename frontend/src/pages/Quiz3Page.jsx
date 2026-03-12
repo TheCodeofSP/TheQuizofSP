@@ -2,7 +2,8 @@ import { useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { useSfx } from "../hooks/useSfx.js";
 import finalQuestions from "../data/finalQuestion.json";
-import { shuffleArray } from "../utils/shuffle.js";
+import { getNextQuestion } from "../services/questionsPool.js";
+
 import {
   getBaseScore,
   setDoubleWon,
@@ -22,7 +23,7 @@ export default function Quiz3Page() {
   const { play } = useSfx();
 
   const finalQuestion = useMemo(() => {
-    return shuffleArray(finalQuestions)[0];
+    return getNextQuestion("quiz3_pool", finalQuestions);
   }, []);
 
   const [answer, setAnswer] = useState("");

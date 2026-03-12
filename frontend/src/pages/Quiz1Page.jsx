@@ -2,16 +2,16 @@ import { useMemo } from "react";
 import { useNavigate } from "react-router-dom";
 import QuizRunner from "../components/QuizRunner.jsx";
 import data from "../data/questions.json";
-import { shuffleArray } from "../utils/shuffle.js";
 import { abandonRun, setQuiz1Score } from "../services/quizSession.js";
 import "./Quiz1Page.scss";
+import { getNextQuestions } from "../services/questionsPool.js";
 
 export default function Quiz1Page() {
   const navigate = useNavigate();
 
   const shuffledQuestions = useMemo(() => {
     const list = Array.isArray(data.quiz1_profile) ? data.quiz1_profile : [];
-    return shuffleArray(list).slice(0, 5);
+    return getNextQuestions("quiz1_pool", list, 5);
   }, []);
 
   function handleComplete(score) {
