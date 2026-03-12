@@ -27,7 +27,7 @@ export default function StartPage() {
       "LEVEL 3 : FINAL BOSS | 1 QUESTION QUITTE OU DOUBLE",
       "WARNING : MAUVAISE RÉPONSE = SCORE FINAL PERDU",
       "ONLINE LEADERBOARD ACTIVÉ",
-      "...",
+      "ENTRE TON PSEUDO POUR COMMENCER",
     ],
     [],
   );

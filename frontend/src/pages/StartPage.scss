@@ -10,15 +10,13 @@
   &__hud {
     display: grid;
     grid-template-columns: 1fr;
-    gap: $space-2;
-    padding-bottom: $space-2;
+    gap: $space-1;
     border-bottom: 1px solid $border-soft;
   }
 
   &__hudLeft,
   &__hudRight {
     display: grid;
-    gap: 6px;
   }
 
   &__hudLine {
@@ -52,6 +50,10 @@
   }
 
   &__subtitle {
+    margin: 0;
+  }
+
+  &__version{
     margin: 0;
   }
 
@@ -111,12 +113,12 @@
     min-height: 430px;
     display: grid;
     grid-template-rows: auto 1fr;
-    gap: 18px;
+    gap: 4px;
   }
 
   &__terminalLogs {
     display: grid;
-    gap: 8px;
+    gap: 4px;
     align-content: start;
   }
 
@@ -158,14 +160,10 @@
     animation: blink 1.2s infinite;
   }
 
-  &__formWrap {
-    min-height: 180px;
-  }
 
   &__form {
     display: grid;
     gap: 12px;
-    margin-top: 6px;
   }
 
   &__formItem {
@@ -184,6 +182,7 @@
   }
 
   &__label {
+    display: none;
     font-size: 12px;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -209,7 +208,7 @@
   }
 
   &__actions {
-    display: grid;
+    display: flex;
     gap: 10px;
   }
 

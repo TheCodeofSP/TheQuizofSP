@@ -46,19 +46,6 @@ export default function LeaderboardPage() {
               TOP 20 • ARCADE BOARD
             </p>
           </div>
-
-          <div className="leaderboard__hudRight">
-            <button
-              className="btnHome"
-              type="button"
-              onClick={() => {
-                play("click");
-                navigate("/");
-              }}
-            >
-              HOME
-            </button>
-          </div>
         </header>
 
         {loading && <p className="leaderboard__loading">LOADING…</p>}
@@ -114,7 +101,7 @@ export default function LeaderboardPage() {
           </ol>
         )}
 
-        <footer className="leaderboard__footer">
+        <div className="double__actions">
           <button
             className="btn btn--primary"
             type="button"
@@ -125,6 +112,19 @@ export default function LeaderboardPage() {
           >
             PLAY
           </button>
+          <button
+            className="btn btn--primary"
+            type="button"
+            onClick={() => {
+              play("click");
+              navigate("/");
+            }}
+          >
+            HOME
+          </button>
+        </div>
+
+        <footer className="leaderboard__footer">
           <span className="leaderboard__tip">TIP: GO LEVEL 3 FOR ALL-IN</span>
         </footer>
       </div>

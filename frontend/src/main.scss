@@ -47,7 +47,7 @@ main {
 .container {
   max-width: $max-width;
   margin: 0 auto;
-  padding: $space-5 $space-3;
+  padding: $space-3 $space-2;
 }
 
 .card {
@@ -55,7 +55,7 @@ main {
   background: $color-panel;
   border: 2px solid $border;
   border-radius: $radius-lg;
-  padding: $space-4;
+  padding: $space-2;
   animation: slideUp 0.3s ease;
 
   @include m.crt;

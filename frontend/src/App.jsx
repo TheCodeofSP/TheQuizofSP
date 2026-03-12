@@ -28,9 +28,8 @@ export default function App() {
           <Route path="/loading" element={<LoadingPage />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
+        <Footer />
       </main>
-
-      <Footer />
     </>
   );
 }
