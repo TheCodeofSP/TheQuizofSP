@@ -37,23 +37,23 @@ export default function Footer() {
 
       <div className="footer__links">
         <a
+          href="https://github.com/TheCodeofSP/TheQuizofSP.git"
+          target="_blank"
+          rel="noreferrer"
+        >
+          GITHUB
+        </a>
+        <span className="footer__separator">•</span>
+        <a
           href="https://www.instagram.com/thecodeofsp/"
           target="_blank"
           rel="noreferrer"
         >
           Instagram
         </a>
-
         <span className="footer__separator">•</span>
-
-        <a href="https://thecodeofsp.fr" target="_blank" rel="noreferrer">
-          PORTFOLIO
-        </a>
-
-        <span className="footer__separator">•</span>
-
         <a
-          href="www.linkedin.com/in/sandrinepham69132b145"
+          href="https://www.linkedin.com/in/sandrinepham69132b145/"
           target="_blank"
           rel="noreferrer"
         >
