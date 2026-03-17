@@ -49,5 +49,55 @@
     "id": "f10",
     "question": "Quelle déesse grecque est la déesse de la sagesse et la protectrice d’Athènes ?",
     "answers": ["athena", "athéna"]
+  },
+    {
+    "id": "f11",
+    "question": "Comment s'appelle le dieu du vin dans la mythologie grecque ?",
+    "answers": ["dionysos", "dionysus"]
+  },
+  {
+    "id": "f12",
+    "question": "Comment s'appelle le dieu des enfers dans la mythologie grecque ?",
+    "answers": ["hades", "hadès"]
+  },
+  {
+    "id": "f13",
+    "question": "Comment s'appelle le roi des dieux dans la mythologie grecque ?",
+    "answers": ["zeus"]
+  },
+  {
+    "id": "f14",
+    "question": "Comment s'appelle la déesse de l'amour dans la mythologie grecque ?",
+    "answers": ["aphrodite"]
+  },
+  {
+    "id": "f15",
+    "question": "Comment s'appelle le dieu de la guerre dans la mythologie grecque ?",
+    "answers": ["ares"]
+  },
+  {
+    "id": "f16",
+    "question": "Comment s'appelle le dieu de la mer dans la mythologie grecque ?",
+    "answers": ["poseidon", "poséidon"]
+  },
+  {
+    "id": "f17",
+    "question": "Comment s'appelle le messager des dieux dans la mythologie grecque ?",
+    "answers": ["hermes"]
+  },
+  {
+    "id": "f18",
+    "question": "Comment s'appelle la déesse de la chasse dans la mythologie grecque ?",
+    "answers": ["artemis", "artémis"]
+  },
+  {
+    "id": "f19",
+    "question": "Comment s'appelle le dieu du soleil dans la mythologie grecque ?",
+    "answers": ["apollon", "apollo"]
+  },
+  {
+    "id": "f20",
+    "question": "Comment s'appelle la déesse du mariage dans la mythologie grecque ?",
+    "answers": ["hera", "héra"]
   }
 ]

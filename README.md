@@ -153,13 +153,13 @@ SP
 ## Screenshots
 
 ### Start Screen
-![Start](docs/start.png)
+![Start](assets/start.png)
 
 ### Quiz Level
-![Quiz](docs/quiz1.png)
+![Quiz](assets/quiz1.png)
 
 ### Result Screen
-![Result](docs/result.png)
+![Result](assets/result.png)
 
 ### Leaderboard
-![Leaderboard](docs/leaderboard.png)
+![Leaderboard](assets/leaderboard.png)

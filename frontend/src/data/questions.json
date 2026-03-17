@@ -129,6 +129,118 @@
       "question": "Dans Naruto Shippuden, quel est le nom du démon renard scellé en Naruto ?",
       "choices": ["Shukaku", "Kurama", "Gyuki", "Matatabi"],
       "answerIndex": 1
+    },
+    {
+      "id": "p16",
+      "type": "mcq",
+      "question": "Quel élément est presque toujours inclus dans un Happy Meal ?",
+      "choices": [
+        "Un jouet",
+        "Un livre scolaire",
+        "Un téléphone",
+        "Un bon de réduction"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "p17",
+      "type": "mcq",
+      "question": "Pourquoi les jouets du Happy Meal changent-ils régulièrement ?",
+      "choices": [
+        "Pour encourager les enfants à revenir",
+        "Parce qu'ils sont jetables",
+        "Pour réduire les coûts",
+        "Pour suivre les saisons uniquement"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "p18",
+      "type": "mcq",
+      "question": "Pourquoi le menu enfant de McDonald's s'appelle \"Happy Meal\" ?",
+      "choices": [
+        "Parce qu'il rend les enfants heureux",
+        "Parce qu'il est moins cher",
+        "Parce qu'il contient toujours un dessert",
+        "Parce qu'il est servi rapidement"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "p19",
+      "type": "mcq",
+      "question": "Dans Naruto Shippuden, combien de queues a Kyûbi ?",
+      "choices": ["7", "8", "9", "10"],
+      "answerIndex": 2
+    },
+    {
+      "id": "p20",
+      "type": "mcq",
+      "question": "Dans Naruto Shippuden, quel est le symbole de l'Akatsuki ?",
+      "choices": [
+        "Un nuage rouge",
+        "Une feuille verte",
+        "Un éventail violet",
+        "Un crâne blanc"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "p21",
+      "type": "mcq",
+      "question": "Quel joueur a remporté le plus de titres à Roland Garros ?",
+      "choices": [
+        "Roger Federer",
+        "Novak Djokovic",
+        "Rafael Nadal",
+        "Pete Sampras"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "p22",
+      "type": "mcq",
+      "question": "En F1, qui a remporté le championnat du monde en 2020 ?",
+      "choices": [
+        "Lewis Hamilton",
+        "Max Verstappen",
+        "Sebastian Vettel",
+        "Charles Leclerc"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "p23",
+      "type": "mcq",
+      "question": "Dans quelle décennie Britney Spears est-elle devenue célèbre ?",
+      "choices": ["Années 80", "Années 90", "Années 2000", "Années 2010"],
+      "answerIndex": 1
+    },
+    {
+      "id": "p24",
+      "type": "mcq",
+      "question": "Dans Naruto, comment s'appelle la technique signature de Naruto ?",
+      "choices": ["Chidori", "Rasengan", "Amaterasu", "Sharingan"],
+      "answerIndex": 1
+    },
+    {
+      "id": "p25",
+      "type": "mcq",
+      "question": "Dans Naruto, comment s'appelle le village de Naruto ?",
+      "choices": ["Konoha", "Suna", "Kiri", "Iwa"],
+      "answerIndex": 0
+    },
+    {
+      "id": "p26",
+      "type": "mcq",
+      "question": "Dans Naruto, à quoi fait réfèrence \"le roi\"  selon Asuma pour Shikamaru ?",
+      "choices": [
+        "Le roi est le Hokage",
+        "Le roi représente les enfants à protéger",
+        "Le roi est le ninja le plus fort",
+        "Le roi est le chef du clan"
+      ],
+      "answerIndex": 1
     }
   ],
   "quiz2_hobbies": [
@@ -145,6 +257,98 @@
       "question": "Le Eras Tour de Taylor Swift compte combien de concerts ?",
       "choices": ["52", "78", "149", "200"],
       "answerIndex": 2
+    },
+    {
+      "id": "mu3",
+      "type": "mcq",
+      "question": "Quel est le titre de la chanson la plus célèbre du groupe Eagles ?",
+      "choices": [
+        "Hotel California",
+        "Take It Easy",
+        "Desperado",
+        "Life in the Fast Lane"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "mu4",
+      "type": "mcq",
+      "question": "De quel pays est originaire le groupe Eagles ?",
+      "choices": ["Royaume-Uni", "États-Unis", "Canada", "Australie"],
+      "answerIndex": 1
+    },
+    {
+      "id": "mu5",
+      "type": "mcq",
+      "question": "Dans quelle décennie le groupe Eagles s'est-il formé ?",
+      "choices": ["Années 60", "Années 70", "Années 80", "Années 90"],
+      "answerIndex": 1
+    },
+    {
+      "id": "mu6",
+      "type": "mcq",
+      "question": "Quel est le genre musical principal des Eagles ?",
+      "choices": ["Rock / Country rock", "Pop électronique", "Rap", "Jazz"],
+      "answerIndex": 0
+    },
+    {
+      "id": "mu7",
+      "type": "mcq",
+      "question": "Quel membre des Eagles est connu pour chanter \"Hotel California\" ?",
+      "choices": ["Don Henley", "Freddie Mercury", "Mick Jagger", "Elton John"],
+      "answerIndex": 0
+    },
+    {
+      "id": "mu8",
+      "type": "mcq",
+      "question": "Quel instrument est particulièrement présent dans la musique des Eagles ?",
+      "choices": ["Guitare", "Violon", "Saxophone", "Synthétiseur"],
+      "answerIndex": 0
+    },
+    {
+      "id": "mu9",
+      "type": "mcq",
+      "question": "Quel est le titre du premier grand succès de Britney Spears ?",
+      "choices": [
+        "...Baby One More Time",
+        "Toxic",
+        "Oops!... I Did It Again",
+        "Circus"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "mu10",
+      "type": "mcq",
+      "question": "De quel pays est originaire Britney Spears ?",
+      "choices": ["Royaume-Uni", "Canada", "États-Unis", "Australie"],
+      "answerIndex": 2
+    },
+    {
+      "id": "mu11",
+      "type": "mcq",
+      "question": "Quel est le métier principal de Britney Spears ?",
+      "choices": ["Actrice", "Chanteuse", "Danseuse", "Animatrice"],
+      "answerIndex": 1
+    },
+    {
+      "id": "mu12",
+      "type": "mcq",
+      "question": "Quel titre contient le mot \"Toxic\" ?",
+      "choices": ["Toxic", "Lucky", "Stronger", "Womanizer"],
+      "answerIndex": 0
+    },
+    {
+      "id": "mu13",
+      "type": "mcq",
+      "question": "Quel titre de musique commence par \"Oops!...\" ?",
+      "choices": [
+        "Oops!... I Did It Again",
+        "Baby One More Time",
+        "Circus",
+        "Everytime"
+      ],
+      "answerIndex": 0
     },
     {
       "id": "a1",
@@ -191,25 +395,6 @@
     {
       "id": "a7",
       "type": "mcq",
-      "question": "Dans Naruto Shippuden, combien de queues a Kyûbi ?",
-      "choices": ["7", "8", "9", "10"],
-      "answerIndex": 2
-    },
-    {
-      "id": "a8",
-      "type": "mcq",
-      "question": "Dans Naruto Shippuden, quel est le symbole de l'Akatsuki ?",
-      "choices": [
-        "Un nuage rouge",
-        "Une feuille verte",
-        "Un éventail violet",
-        "Un crâne blanc"
-      ],
-      "answerIndex": 0
-    },
-    {
-      "id": "a9",
-      "type": "mcq",
       "question": "Dans One Piece, qu’est-ce que le One Piece ?",
       "choices": [
         "Un navire légendaire",
@@ -218,6 +403,134 @@
         "Une arme antique"
       ],
       "answerIndex": 1
+    },
+    {
+      "id": "a8",
+      "type": "mcq",
+      "question": "Dans Hunter X Hunter, quel est le nom de l'examen que Gon passe au début de l'histoire ?",
+      "choices": [
+        "L'examen de Hunter",
+        "L'examen des ninjas",
+        "Le test royal",
+        "L'épreuve céleste"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "a9",
+      "type": "mcq",
+      "question": "Dans Dragon Ball Z, quelle est la transformation la plus emblématique de Goku ?",
+      "choices": [
+        "Ultra Instinct",
+        "Super Saiyan",
+        "Kaioken",
+        "Super Saiyan Blue"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "a10",
+      "type": "mcq",
+      "question": "Dans Berserk, quel est le nom du groupe de mercenaires dirigé par Griffith ?",
+      "choices": [
+        "La Brigade Fantôme",
+        "La Troupe du Faucon",
+        "Les Chevaliers Noirs",
+        "L'Ordre du Dragon"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "a11",
+      "type": "mcq",
+      "question": "Dans L'Attaque des Titans, contre qui l'humanité se bat-elle ?",
+      "choices": ["Des démons", "Des titans", "Des dragons", "Des robots"],
+      "answerIndex": 1
+    },
+    {
+      "id": "a12",
+      "type": "mcq",
+      "question": "Dans Bob's Burgers, quel est le nom du restaurant familial ?",
+      "choices": [
+        "Bob's Burgers",
+        "Belcher Grill",
+        "Burger House",
+        "Family Burgers"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "a13",
+      "type": "mcq",
+      "question": "Dans Dragon Ball Z, qui est le prince des Saiyans ?",
+      "choices": ["Goku", "Vegeta", "Gohan", "Broly"],
+      "answerIndex": 1
+    },
+    {
+      "id": "a14",
+      "type": "mcq",
+      "question": "Dans One Piece, comment s'appelle le chapeau de Luffy ?",
+      "choices": [
+        "Chapeau noir",
+        "Chapeau de paille",
+        "Chapeau royal",
+        "Chapeau pirate"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "a15",
+      "type": "mcq",
+      "question": "Dans One Piece, quel est le pouvoir de Luffy ?",
+      "choices": [
+        "Il contrôle le feu",
+        "Il devient invisible",
+        "Son corps est en caoutchouc",
+        "Il peut voler"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "a16",
+      "type": "mcq",
+      "question": "Dans South Park, comment s'appelle le personnage qui meurt souvent ?",
+      "choices": ["Stan", "Kyle", "Kenny", "Cartman"],
+      "answerIndex": 2
+    },
+    {
+      "id": "a17",
+      "type": "mcq",
+      "question": "Dans South Park, comment s'appelle le personnage connu pour être égoïste et grossier ?",
+      "choices": ["Stan", "Cartman", "Kyle", "Butters"],
+      "answerIndex": 1
+    },
+    {
+      "id": "a18",
+      "type": "mcq",
+      "question": "Dans South Park, dans quelle ville vivent les personnages principaux ?",
+      "choices": ["Springfield", "South Park", "Quahog", "Arlen"],
+      "answerIndex": 1
+    },
+    {
+      "id": "a19",
+      "type": "mcq",
+      "question": "Dans South Park, comment s'appelle le meilleur ami de Stan ?",
+      "choices": ["Cartman", "Kenny", "Kyle", "Butters"],
+      "answerIndex": 2
+    },
+    {
+      "id": "a20",
+      "type": "mcq",
+      "question": "Dans South Park, quel est le prénom de Cartman ?",
+      "choices": ["Eric", "Steve", "Tom", "Brad"],
+      "answerIndex": 0
+    },
+    {
+      "id": "a21",
+      "type": "mcq",
+      "question": "Dans South Park, comment s'appelle le professeur des enfants ?",
+      "choices": ["Mr. Garrison", "Mr. Mackey", "Chef", "Principal Victoria"],
+      "answerIndex": 0
     },
     {
       "id": "sp1",
@@ -229,30 +542,6 @@
     {
       "id": "sp2",
       "type": "mcq",
-      "question": "Quel joueur a remporté le plus de titres à Roland Garros ?",
-      "choices": [
-        "Roger Federer",
-        "Novak Djokovic",
-        "Rafael Nadal",
-        "Pete Sampras"
-      ],
-      "answerIndex": 2
-    },
-    {
-      "id": "sp3",
-      "type": "mcq",
-      "question": "En F1, qui a remporté le championnat du monde en 2020 ?",
-      "choices": [
-        "Lewis Hamilton",
-        "Max Verstappen",
-        "Sebastian Vettel",
-        "Charles Leclerc"
-      ],
-      "answerIndex": 0
-    },
-    {
-      "id": "sp4",
-      "type": "mcq",
       "question": "Que se passe-t-il pendant la mi-temps du Superbowl ?",
       "choices": [
         "Un match amical",
@@ -263,14 +552,14 @@
       "answerIndex": 1
     },
     {
-      "id": "sp5",
+      "id": "sp3",
       "type": "mcq",
       "question": "En F1, où se déroule le GP de Belgique ?",
       "choices": ["Monza", "Silverstone", "Spa-Francorchamps", "Zandvoort"],
       "answerIndex": 2
     },
     {
-      "id": "sp6",
+      "id": "sp4",
       "type": "mcq",
       "question": "À quelle fréquence ont lieu les Jeux Olympiques d'été ?",
       "choices": [
@@ -282,31 +571,76 @@
       "answerIndex": 2
     },
     {
-      "id": "sp7",
+      "id": "sp5",
       "type": "mcq",
       "question": "Quelle ville a organisé les JO d'été 2024 ?",
       "choices": ["Londres", "Tokyo", "Paris", "Los Angeles"],
       "answerIndex": 2
     },
     {
-      "id": "sp8",
+      "id": "sp6",
       "type": "mcq",
       "question": "Combien de disciplines officielles comptent les Jeux Olympiques d'été ?",
       "choices": ["28", "30", "33", "36"],
       "answerIndex": 2
     },
     {
-      "id": "sp9",
+      "id": "sp7",
       "type": "mcq",
       "question": "Quel est le sport le plus pratiqué dans le monde ?",
       "choices": ["Basketball", "Cricket", "Football", "Tennis"],
       "answerIndex": 2
     },
     {
-      "id": "sp10",
+      "id": "sp8",
       "type": "mcq",
       "question": "De quelle nationalité est Michael Schumacher ?",
       "choices": ["Autrichien", "Allemand", "Suisse", "Belge"],
+      "answerIndex": 1
+    },
+    {
+      "id": "sp9",
+      "type": "mcq",
+      "question": "Sur quelle surface se joue Roland-Garros ?",
+      "choices": ["Gazon", "Terre battue", "Dur", "Moquette"],
+      "answerIndex": 1
+    },
+    {
+      "id": "sp10",
+      "type": "mcq",
+      "question": "Quel trophée est remis au vainqueur du Superbowl ?",
+      "choices": [
+        "Larry O'Brien Trophy",
+        "Stanley Cup",
+        "Vince Lombardi Trophy",
+        "Heisman Trophy"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "sp11",
+      "type": "mcq",
+      "question": "Quel pilote détient le plus de titres de champion du monde de F1 (à égalité) ?",
+      "choices": [
+        "Ayrton Senna",
+        "Lewis Hamilton",
+        "Fernando Alonso",
+        "Sebastian Vettel"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "sp12",
+      "type": "mcq",
+      "question": "Quel pays a remporté la Coupe du Monde de football 2018 ?",
+      "choices": ["Allemagne", "Brésil", "France", "Argentine"],
+      "answerIndex": 2
+    },
+    {
+      "id": "sp13",
+      "type": "mcq",
+      "question": "Quel sport est associé au tournoi de Wimbledon ?",
+      "choices": ["Golf", "Tennis", "Cricket", "Rugby"],
       "answerIndex": 1
     },
     {
@@ -588,6 +922,44 @@
       "answerIndex": 2
     },
     {
+      "id": "fi14",
+      "type": "mcq",
+      "question": "Quel objet Frodon doit-il détruire ?",
+      "choices": [
+        "L'Anneau Unique",
+        "Une épée magique",
+        "Un sceptre",
+        "Un collier"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "fi15",
+      "type": "mcq",
+      "question": "Comment s'appelle le fidèle compagnon de Frodon ?",
+      "choices": ["Sam", "Merry", "Pippin", "Boromir"],
+      "answerIndex": 0
+    },
+    {
+      "id": "fi16",
+      "type": "mcq",
+      "question": "Où doit être détruit l'Anneau Unique ?",
+      "choices": [
+        "Dans la Montagne du Destin",
+        "À Minas Tirith",
+        "À Fondcombe",
+        "Dans la Comté"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "fi17",
+      "type": "mcq",
+      "question": "Quelle créature obsessionnelle veut récupérer l'Anneau ?",
+      "choices": ["Gollum", "Un orque", "Un elfe", "Un troll"],
+      "answerIndex": 0
+    },
+    {
       "id": "se1",
       "type": "mcq",
       "question": "Dans Friends, quel personnage est connu pour son humour sarcastique ?",
@@ -668,9 +1040,120 @@
     {
       "id": "se10",
       "type": "mcq",
-      "question": "Dans Buffy contre les vampires, quel personnage tombe amoureux de Buffy ?",
-      "choices": ["Xander", "Spike", "Angel", "Giles"],
+      "question": "Dans Friends, comment s'appelle le café où les personnages se retrouvent souvent ?",
+      "choices": [
+        "Central Perk",
+        "Coffee House",
+        "Daily Grind",
+        "Central Café"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "se11",
+      "type": "mcq",
+      "question": "Dans Friends, quel est le métier de Ross ?",
+      "choices": ["Médecin", "Paléontologue", "Avocat", "Professeur de sport"],
+      "answerIndex": 1
+    },
+    {
+      "id": "se12",
+      "type": "mcq",
+      "question": "Dans Friends, comment s'appelle le colocataire de Chandler au début de la série ?",
+      "choices": ["Ross", "Joey", "Mike", "Gunther"],
+      "answerIndex": 1
+    },
+    {
+      "id": "se13",
+      "type": "mcq",
+      "question": "Dans Friends, quel est le métier de Joey ?",
+      "choices": ["Acteur", "Serveur", "Musicien", "Photographe"],
+      "answerIndex": 0
+    },
+    {
+      "id": "se14",
+      "type": "mcq",
+      "question": "Dans Friends, comment s'appelle la sœur de Ross ?",
+      "choices": ["Rachel", "Phoebe", "Monica", "Janice"],
       "answerIndex": 2
+    },
+    {
+      "id": "se15",
+      "type": "mcq",
+      "question": "Dans Friends, quel est le métier de Rachel au début de la série ?",
+      "choices": ["Serveuse", "Styliste", "Actrice", "Journaliste"],
+      "answerIndex": 0
+    },
+    {
+      "id": "se16",
+      "type": "mcq",
+      "question": "Dans Friends, qui est connu pour dire \"We were on a break!\" ?",
+      "choices": ["Chandler", "Ross", "Joey", "Mike"],
+      "answerIndex": 1
+    },
+    {
+      "id": "se17",
+      "type": "mcq",
+      "question": "Dans Game of Thrones, comment s'appelle la famille de Jon Snow ?",
+      "choices": ["Lannister", "Stark", "Baratheon", "Targaryen"],
+      "answerIndex": 1
+    },
+    {
+      "id": "se18",
+      "type": "mcq",
+      "question": "Dans Game of Thrones, qui est la \"Mère des Dragons\" ?",
+      "choices": ["Cersei", "Sansa", "Daenerys", "Arya"],
+      "answerIndex": 2
+    },
+    {
+      "id": "se19",
+      "type": "mcq",
+      "question": "Dans Game of Thrones, comment s'appelle le trône convoité par les différentes familles ?",
+      "choices": [
+        "Le trône royal",
+        "Le trône de fer",
+        "Le trône sacré",
+        "Le trône du nord"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "se20",
+      "type": "mcq",
+      "question": "Dans Game of Thrones, quel animal est l'emblème de la maison Stark ?",
+      "choices": ["Un lion", "Un dragon", "Un loup", "Un cerf"],
+      "answerIndex": 2
+    },
+    {
+      "id": "se21",
+      "type": "mcq",
+      "question": "Dans Game of Thrones, qui est surnommé \"le Régicide\" ?",
+      "choices": ["Tyrion", "Jaime", "Joffrey", "Theon"],
+      "answerIndex": 1
+    },
+    {
+      "id": "se22",
+      "type": "mcq",
+      "question": "Dans Game of Thrones, quel mur protège le royaume du Nord ?",
+      "choices": [
+        "Le Mur",
+        "Le Grand Rempart",
+        "La Barrière",
+        "Le Mur de glace"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "se23",
+      "type": "mcq",
+      "question": "Dans Game of Thrones, quel est le slogan de la maison Stark ?",
+      "choices": [
+        "Le feu et le sang",
+        "L'hiver vient",
+        "Nous ne semons pas",
+        "Un Lannister paie toujours ses dettes"
+      ],
+      "answerIndex": 1
     },
     {
       "id": "sc1",
